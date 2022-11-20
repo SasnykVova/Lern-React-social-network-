@@ -1,0 +1,12 @@
+.header {
+    grid-area: h;
+    background: grey;
+    display: flex;
+    align-items: center;
+    padding: 0 0 0 15px;
+
+    & img {
+        width: 70px;
+        height: 70px;
+    }
+}

@@ -1,0 +1,29 @@
+.aboutuser {
+    font-size: 16px;
+    font-weight: 600;
+    display: flex;
+    padding: 30px 0 0 15px;
+    gap: 50px;
+}
+
+.avatardiv {}
+
+.avatardiv img {
+    width: 100px;
+    height: 100px;
+}
+
+.blockuser {
+    padding-left: 15px;
+    color: white;
+
+    &__name {
+        font-size: 20px;
+        font-weight: 800;
+        padding-bottom: 15px;
+    }
+}
+
+div {
+    color: white;
+}
